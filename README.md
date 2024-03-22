@@ -45,7 +45,7 @@ http://localhost:8000/docs
 ![Captura de pantalla 2024-03-22 120851](https://github.com/jdecruzdeusto/procesamientoDeDatos/assets/125390240/607702a1-1ed1-4a31-bc0a-9542256655a7)
 
 ## Pasos seguidos para realizar el reto 🚶
-### CA.sh
+
 1. Leer y entender qué son y cómo funcionan FastApi y Pydantic
    
 2. Definir la clase Generador con sus respectivos atributos y con valores generados mediante la función random()
