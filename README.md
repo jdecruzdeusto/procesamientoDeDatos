@@ -63,6 +63,10 @@ http://localhost:8000/docs
 
 - Meter más datos, tanto más tipos de datos como clases y atributos
 
+- Crear una interfaz de usuario real, en vez de usar Swagger UI
+
+- Prometheus y Grafana para monitoreo
+
 ## Alternativas posibles 🔜
 - Explorar otros lenguajes de programación, como utilizar C# para la estructura y ASP.net Core para la Api
 
