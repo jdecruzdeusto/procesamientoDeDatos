@@ -28,7 +28,7 @@ Instalar los paquetes necesarios:
 pip install fastapi uvicorn pydantic httpx python-multipart
 ```
 
-2. Ejecutar el comando para iniciar una aplicación FastAPI (o cualquier otra aplicación ASGI) utilizando Uvicorn:
+1. Ejecutar el comando para iniciar una aplicación FastAPI (o cualquier otra aplicación ASGI) utilizando Uvicorn:
 ```bash
 uvicorn api:app --host 0.0.0.0 --port 8000 --reload
 ```
